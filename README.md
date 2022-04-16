@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muben88&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/muben88?username=muben88)](https://github.com/anuraghazra/github-readme-stats)
